@@ -89,5 +89,5 @@ The dataset used for this project contains detailed records of employees, includ
 - **Communication**: Clearly presenting data in a way that is easily understandable for HR professionals and management.
 - **Project Management**: Planning and executing the project steps to deliver a comprehensive and functional dashboard.
 
-## 🌟 Let’s Connect!
+## Let’s Connect!
 I’m passionate about creating intuitive dashboards and making data accessible for everyone. Let’s connect on [LinkedIn](https://www.linkedin.com/in/pooja-pawar-92086217a) to discuss all things Excel, dashboards, and data insights!
